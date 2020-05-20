@@ -1,3 +1,3 @@
 # hello-world
 
-Hi, I'm student computer science.
+Hi, I'm student computer science
